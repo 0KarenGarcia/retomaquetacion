@@ -11,7 +11,7 @@
     cursor: pointer;
   }
   .logo{
-      padding-right: 92px;
+    margin-right: 395px;
   } 
 /*section*/
   .btnArrow{
@@ -80,7 +80,24 @@ h2{
   font-size: 30px;
   color: #1c252c;
 }
-
+/*howDoes*/
+.titleHow{
+  line-height: 0.9;
+}
+h3{
+font-size: 60px;
+color: #ffffff;
+font-weight: bold;
+margin-left: 250px;
+margin-top: 150px;
+}
+h1{
+font-size: 150px;
+color: #ffffff;
+font-weight: bold;
+margin-left: 250px;
+letter-spacing: -5px;
+}
 
 
 @media screen and (max-width: 1415px) {
